@@ -22,7 +22,7 @@ Sfa7.login(process.env.SFA7);
 const AbuA = new Discord.Client();
 
 AbuA.on('ready', () => {
-   AbuA.user.setGame('ابغا iPhone xs 😢','https://www.twitch.tv/Rezfix');
+   AbuA.user.setGame('اشتريت iPhone xs  😍','https://www.twitch.tv/Rezfix');
     console.log('---------------');
     console.log('AbuA Online')
     console.log('---------------')
