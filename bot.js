@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const Gazi = new Discord.Client();
 
 Gazi.on('ready', () => {
-   Gazi.user.setGame('Hacked Account','https://www.twitch.tv/Rezfix');
+   Gazi.user.setGame('Can U Love  Me?','https://www.twitch.tv/Rezfix');
     console.log('---------------');
     console.log('Gazi Online')
     console.log('---------------')
