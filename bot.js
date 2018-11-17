@@ -171,3 +171,6 @@ collector7.on('collect', r => {
 })
 }
 });
+
+
+clinet.login(process.env.BOT_TOKEN);
