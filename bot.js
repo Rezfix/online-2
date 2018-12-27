@@ -17,4 +17,4 @@ client.on("message", message => {
 };     
 });
 
-clinet.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN);
