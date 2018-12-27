@@ -1,4 +1,5 @@
 const Discord = require("discord.js");
+const client = new Discord.Client();
 
 	if(command == prefix + 'bc') {
 		if(!message.member.hasPermission('ADMINISTRATOR')) return message.reply('\`\`ADMINISTRATOR\`\` **انت لا تمتلك صلاحية**')
